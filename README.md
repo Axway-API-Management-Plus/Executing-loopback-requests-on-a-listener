@@ -47,6 +47,5 @@ Please read [Contributing.md] (https://github.com/Axway/api-management-artefacts
 
 
 ## License
-## License
 Apache License 2.0 (refer to document [license] (https://github.com/Axway-API-Management/Executing-loopback-requests-on-a-listener/blob/master/LICENSE))
 
