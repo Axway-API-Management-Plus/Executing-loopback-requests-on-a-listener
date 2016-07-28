@@ -37,7 +37,7 @@ This script SHOULD NOT be used more than once for a given message
 
 ## Contributing
 
-Please read [Contributing.md] (https://github.com/Axway/api-management-artefacts/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [Contributing.md] (/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Team
 
