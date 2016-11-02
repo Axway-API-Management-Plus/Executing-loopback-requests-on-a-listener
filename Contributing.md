@@ -7,4 +7,5 @@ Several type of artefacts are available. Some are just samples of code that can 
 
 # How Can I Contribute?
 - Reporting Bugs using Issues feature
-- Suggesting Enhancements using Pull Requests feature
+- Suggesting Enhancements/corrections using Pull Requests feature
+
