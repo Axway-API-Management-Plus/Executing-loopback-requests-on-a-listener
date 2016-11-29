@@ -5,7 +5,8 @@ These are just guidelines, not rules, use your best judgment and feel free to pr
 # What should I know before I get started?
 Several type of artefacts are available. Some are just samples of code that can added into filters, other are full policies that can be imported in Policy Studio.  
 
-# How Can I Contribute?
-- Reporting Bugs using Issues feature
-- Suggesting Enhancements/corrections using Pull Requests feature
 
+# How Can I Contribute?
+- Reporting Bugs
+- Suggesting Enhancements
+- Pull Requests
